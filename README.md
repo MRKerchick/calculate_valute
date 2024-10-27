@@ -1,3 +1,6 @@
+# Import!
+- pip install ET
+- pip install request
 # RU
 ## Калькулятор валют
 - может переводить валюты
