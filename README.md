@@ -15,6 +15,6 @@
 - minimum functionality
 # Поддержка
 ## RU
-в случаи если вы столкнётесь с ошибкой я не буду ничего исправлять (извините)
+в случае если вы столкнётесь с ошибкой мы не буду ничего исправлять (извините)
 ## ENG
-in case you encounter an error, I will not correct anything (sorry)
+in case you encounter an error, we will not correct anything (sorry)
